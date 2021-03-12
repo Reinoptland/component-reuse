@@ -1,0 +1,20 @@
+.alert {
+  padding: 20px 10px;
+  border-radius: 5px;
+  width: 200px;
+}
+
+.success {
+  background-color: green;
+  color: greenyellow;
+}
+
+.warning {
+  background-color: lightgoldenrodyellow;
+  color: gold;
+}
+
+.danger {
+  background-color: lightcoral;
+  color: red;
+}

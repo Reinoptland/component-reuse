@@ -1,3 +1,11 @@
+.hide {
+  display: none;
+}
+
+.entirePage {
+  width: 100%;
+}
+
 .App {
   text-align: center;
 }
